@@ -1,1 +1,1 @@
-# karuizawa_keikaku
+# adamist521
