@@ -1,1 +1,1 @@
-# home_kaizen
+# karuizawa_keikaku
