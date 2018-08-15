@@ -15,4 +15,6 @@
 なにか良い使い方あったらご提案ください
 
 ## アンケート
+[軽井沢ホームステイアンケート](https://goo.gl/forms/h9U5QbBLNRqAonrB2)
 
+[結果](https://docs.google.com/spreadsheets/d/14yeFgKz87HwWKnHQ5i7FcRjO23RYMJltcKvhxSrtvX8/edit?usp=sharing)
