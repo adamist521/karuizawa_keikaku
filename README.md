@@ -11,7 +11,7 @@
 ### スポット/食べ物類は [Wiki](https://github.com/adamist521/karuizawa_keikaku/wiki) に
 
 ## 最初にやること
-googleカレンダー、Slack( karuizawa-house.slack.cow ) に招待
+googleカレンダー、Slack( karuizawa-house.slack.com ) に招待
 
 ## その他
 なにか良い使い方あったらご提案ください
