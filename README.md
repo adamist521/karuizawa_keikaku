@@ -14,6 +14,9 @@
 ## その他
 なにか良い使い方あったらご提案ください
 
+## Pages
+http://karuizawa-house.tokyo
+
 ## アンケート
 [軽井沢ホームステイアンケート](https://goo.gl/forms/h9U5QbBLNRqAonrB2)
 
