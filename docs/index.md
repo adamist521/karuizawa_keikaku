@@ -7,7 +7,7 @@
   crossorigin="anonymous"></script>
   
 <script>
-var urlToGetAllOpenBugs = "https://api.github.com/repos/jquery/jquery/issues?state=open&labels=bug";
+var urlToGetAllOpenBugs = "https://api.github.com/repos/adamist521/karuizawa_keikaku/issues?state=open";
 
 $(document).ready(function () {
     $.getJSON(urlToGetAllOpenBugs, function (allIssues) {
