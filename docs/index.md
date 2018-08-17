@@ -14,7 +14,7 @@ $(document).ready(function () {
         $("div").append("found " + allIssues.length + " issues</br>");
         $.each(allIssues, function (i, issue) {
             $("div")
-                .append("<b><a href=" + issue.url + ">" + issue.number + " - " + issue.title + "</a></b></br>")
+                .append("<b><a href=" + issue.html_url + " target='new' >" + issue.number + " - " + issue.title + "</a></b></br>")
                 .append("created at: " + issue.created_at + "</br>")
                 .append(issue.body + "</br></br></br>");
         });
