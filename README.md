@@ -11,13 +11,15 @@
 ### スポット/食べ物類は [Wiki](https://github.com/adamist521/karuizawa_keikaku/wiki) に
 
 ## 最初にやること
-googleカレンダー、Slack( karuizawa-house.slack.com ) に招待
+googleカレンダー、Slack( https://karuizawa-house.slack.com ) に招待/登録
 
 ## その他
 なにか良い使い方あったらご提案ください
 
 ## Pages
 http://karuizawa-house.tokyo
+
+※カレンダーは共有済みGmailアカウントでログイン時のみ参照可能(クッキー使っている模様)
 
 ## アンケート
 [軽井沢ホームステイアンケート](https://goo.gl/forms/h9U5QbBLNRqAonrB2)
