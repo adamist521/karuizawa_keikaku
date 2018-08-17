@@ -21,6 +21,9 @@ http://karuizawa-house.tokyo
 
 ※カレンダーは共有済みGmailアカウントでログイン時のみ参照可能(クッキー使っている模様)
 
+Localでの編集は[ページ](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) を参照。  
+Ruby環境があれば `docs` ディレクトリで `bundle install` → `bundle exec jekyll serve` でいけるはず.
+
 ## アンケート
 [軽井沢ホームステイアンケート](https://goo.gl/forms/h9U5QbBLNRqAonrB2)
 
